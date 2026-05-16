@@ -103,8 +103,7 @@ GET http://localhost:3000/api/notifications?page=1&limit=5&type=Placement
 GET http://localhost:3000/api/notifications/top?limit=3
 ```
 
-## Screenshots
-*(Insert screenshots of the frontend dashboard, mobile view, and Postman API responses here prior to final submission)*
+
 
 ## Assumptions and Limitations
 - **In-Memory Data:** Due to the constraints of the 3-hour assessment window, the backend falls back to an in-memory mock array if an external data source is unavailable.
